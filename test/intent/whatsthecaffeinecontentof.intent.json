@@ -1,0 +1,8 @@
+{
+  "utterance": "what's the caffeine content of Pepsi",
+  "intent_type": "CaffeineContentIntent",
+  "intent": {
+    "CaffeineKeyword": "caffeine",
+    "Drink": "Coke"
+  }
+}
