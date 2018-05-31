@@ -1,7 +1,7 @@
 from adapt.intent import IntentBuilder
 from mycroft.skills.core import MycroftSkill
 from mycroft.util.log import LOG
-from mycroft.api import DeviceApi
+from os.path import join, abspath, dirname
 
 """
 guydaniels, reginaneon: 
@@ -69,7 +69,9 @@ class CaffeineWizSkill(MycroftSkill):
                  popular caffeinated drinks and serves as a "database"
                  for the skill.
         """
-        with open("/opt/mycroft/skills/skill-caffeinewiz/drinkList.txt") as textFile:
+        self.drinkloc = join(abspath(dirname(__file__)), 'drinkList.txt')
+
+        with open(self.drinkloc) as textFile:
             self.drinkList = [line.strip("\n").split(",") for line in textFile]
             LOG.info(self.drinkList)
 
@@ -139,7 +141,8 @@ class CaffeineWizSkill(MycroftSkill):
         LOG.debug('3- Goodbye')
         self.speak('Goodbye', False)
 
-    def _drink_conversion(self, total, caffeine_oz, oz):
+    @staticmethod
+    def _drink_conversion(total, caffeine_oz, oz):
         return int((caffeine_oz/(oz * 29.5735)) * total)
 
     def _get_drink_text(self, drinkname):
