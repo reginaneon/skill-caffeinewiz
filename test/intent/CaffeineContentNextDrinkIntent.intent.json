@@ -1,0 +1,8 @@
+{
+  "utterance": "how about Pepsi",
+  "intent_type": "CaffeineContentNextDrinkIntent",
+  "intent": {
+    "AboutKeyword": "about",
+    "NextDrink": "Pepsi"
+  }
+}
