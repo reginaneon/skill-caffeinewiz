@@ -33,30 +33,6 @@ class CaffeineWizSkill(MycroftSkill):
                  - How about *drink*? / what about *drink*?
                  - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
 
-        Supporting Files:
-          caffeinewiz.reginaneon/vocab/en-us/AboutKeyword.voc
-          caffeinewiz.reginaneon/vocab/en-us/CaffeineKeyword.voc
-          caffeinewiz.reginaneon/vocab/en-us/Drink.voc
-          caffeinewiz.reginaneon/vocab/en-us/GoodbyeKeyword.voc
-          caffeinewiz.reginaneon/vocab/en-us/NextDrink.voc
-          caffeinewiz.reginaneon/vocab/de-de/AboutKeyword.voc
-          caffeinewiz.reginaneon/vocab/de-de/CaffeineKeyword.voc
-          caffeinewiz.reginaneon/vocab/de-de/Drink.voc
-          caffeinewiz.reginaneon/vocab/de-de/GoodbyeKeyword.voc
-          caffeinewiz.reginaneon/vocab/de-de/NextDrink.voc
-          
-
-          caffeinewiz.reginaneon/test/intent/CaffeineContentIntent.intent.json
-          caffeinewiz.reginaneon/test/intent/CaffeineContentNextDrinkIntent.intent.json
-          caffeinewiz.reginaneon/test/intent/CaffeineContentGoodbyeIntent.intent.json
-
-          caffeinewiz.reginaneon/regex/en-us/drink.rx
-          caffeinewiz.reginaneon/regex/en-us/nextdrink.rx
-          caffeinewiz.reginaneon/regex/de-de/drink.rx
-          caffeinewiz.reginaneon/regex/de-de/nextdrink.rx
-
-          caffeinewiz.reginaneon/dialog/en-us/drink.caffeine.dialog
-          caffeinewiz.reginaneon/dialog/de-de/drink.caffeine.dialog
     """
     def __init__(self):
         super(CaffeineWizSkill, self).__init__(name="CaffeineWizSkill")
@@ -81,12 +57,8 @@ class CaffeineWizSkill(MycroftSkill):
                  syntax and architecture;
         """
         caffeine_intent = IntentBuilder("CaffeineContentIntent"). \
-            require("CaffeineKeyword").require("Drink").build()
+            require("CaffeineKeyword").require("drink").build()
         self.register_intent(caffeine_intent, self.handle_caffeine_intent)
-
-        nextdrink_intent = IntentBuilder("CaffeineContentNextDrinkIntent"). \
-            require("AboutKeyword").require("NextDrink").build()
-        self.register_intent(nextdrink_intent, self.handle_next_drink_intent)
 
         goodbye_intent = IntentBuilder("CaffeineContentGoodbyeIntent"). \
             require("GoodbyeKeyword").build()
@@ -96,11 +68,10 @@ class CaffeineWizSkill(MycroftSkill):
         Note: after the intents are created, two of the "reply" intents 
               are disabled until the first user response is heard.
         """
-        self.disable_intent('CaffeineContentNextDrinkIntent')
         self.disable_intent('CaffeineContentGoodbyeIntent')
 
     def handle_caffeine_intent(self, message):
-        drink = message.data.get("Drink", None)
+        drink = message.data.get("drink", None)
         if drink:
             drink = drink.lower()
         else:
@@ -115,20 +86,7 @@ class CaffeineWizSkill(MycroftSkill):
         Note: at this time the "reply" intents are activated
               again. 
         """
-        self.enable_intent('CaffeineContentNextDrinkIntent')
         self.enable_intent('CaffeineContentGoodbyeIntent')
-
-    def handle_next_drink_intent(self, message):
-        drink = message.data.get("NextDrink", None)
-        if drink:
-            drink = drink.lower()
-        else:
-            return
-
-        speech = self._get_drink_text(drink)
-
-        LOG.debug('2- speech = ' + speech)
-        self.speak(speech, True)
 
     def handle_goodbye_intent(self, message):
         """
@@ -136,10 +94,9 @@ class CaffeineWizSkill(MycroftSkill):
               since the user specified the end of the skill
               by saying "goodbye"
         """
-        self.disable_intent('CaffeineContentNextDrinkIntent')
         self.disable_intent('CaffeineContentGoodbyeIntent')
         LOG.debug('3- Goodbye')
-        self.speak('Goodbye', False)
+        self.speak('Goodbye. Stay caffeinated!', False)
 
     @staticmethod
     def _drink_conversion(total, caffeine_oz, oz):
@@ -188,7 +145,7 @@ class CaffeineWizSkill(MycroftSkill):
         if cnt > 1:
             preMsg = 'I found ' + str(cnt) + ' drinks that match. Here they are:'
 
-        return preMsg + msg + ' Say how about another drink or say bye.'
+        return preMsg + msg + ' Say how about caffeine content of another drink or say goodbye.'
 
     def stop(self):
         pass
