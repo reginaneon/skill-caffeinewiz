@@ -3,6 +3,6 @@
   "intent_type": "CaffeineContentIntent",
   "intent": {
     "CaffeineKeyword": "tell me caffeine content of",
-    "drink": "Pepsi"
+    "drink": "pepsi"
   }
 }
