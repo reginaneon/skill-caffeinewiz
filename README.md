@@ -7,23 +7,23 @@ drink. Multiple drinks in a row are possible.
 
 Sample skill flow:
                  
-                 - Hey Mycroft, what's caffeine content of *drink*? / how much caffeine is in *drink*?
+                 - Hey Mycroft, tell me caffeine content of *drink*? / how much caffeine is in *drink*?
                  - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
-                   Say "how about another drink" or say "bye".
-                 - Goodbye / that's all / exit / we're done
+                   Say how about caffeine content of another drink or say goodbye.
+                 - Goodbye / that's all / we're done
+                 - Goodbye. Stay caffeinated!
                  
 or -
 
-                 - How about *drink*? / what about *drink*?
+                 - How about caffeine content of *drink*?
                  - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
 
 
 ## Examples 
-* "what's caffeine content of *drink*? "
+* "tell me caffeine content of *drink*? "
 * "how much caffeine is in *drink*?"
 
-## Credits 
-guydaniels
+## Credits
 reginaneon
-neongeckocom
+guydaniels
 
