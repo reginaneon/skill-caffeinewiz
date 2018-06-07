@@ -1,0 +1,855 @@
+10 Hour Energy Shot,1.93,422
+1893 Cola,12,34
+28 Black Energy Drink,8.46,80
+3 Water,16.9,50
+4 Purpose Energy Drink,8.46,70
+4C Energy Liquid Water Enhancers,8,60
+4C Energy Rush,8,80
+5 Alarm Energy Shot,2,100
+5 Hour Energy,2,200
+5 Hour Energy Decaf,2,6
+5 Hour Energy Extra Strength,2,230
+50 Cal Energy Shot,2,120
+6 Hour Power,2.03,125
+7-Eleven Energy Shot,2,200
+7-Up,12,0
+A&W Cream Soda,12,29
+A&W Root Beer,12,0
+ABB Diet Turbo,18,90
+Ace Energy Drink,16,160
+Active Brain Energy Shot,0.75,68
+Acute Fruit Energy Drink,15.5,213
+Advocare Slam Energy Shot,2,120
+Advocare Slim,8,120
+Afri Cola,12,89
+Ale 8 1,12,37
+AllDay Energy Shot,2,210
+ALRI Hypershot,2,500
+Alsa Energy Drink,16,100
+Americano Coffee,12,154
+Ammo Energy Shot,1,171
+Amp Energy Cherry Blast,16,160
+Amp Energy Drink,16,142
+Amp Energy Zero,16,157
+Amp Passion Fruit,16,156
+Amp Strawberry Limeade,16,156
+Aqua Enerviva,20,100
+Arbonne Energy Fizz Stck,8,50
+Arby's Jamocha Shake,16,12
+Archer Farms Energy Drink,12,100
+Arizona Arnold Palmer Half and Half,23,43
+Arizona Caution Energy Drink,11.5,144
+Arizona Iced Tea,16,30
+Arizona Iced Tea,20,38
+Arizona Iced Tea Green,16,15
+Arizona Natural Energy,15.5,120
+Arma Energy Drink,16,160
+Arriba Horchata Energy,11,76
+Atomic Blast,16,100
+Avitae Caffeinated Water,16.9,125
+AXIO Energy Drink,12,100
+AZ Energy Drink,15,188
+B 63 Energy Drink,8.46,80
+Bai Antioxidant Infusion,18,78
+BANG Energy Drink,16,300
+Barista Bros Iced Coffee,16.91,219
+Barq's Red Creme Soda,12,0
+Barq's Root Beer,12,22
+Baskin Robbins Cappuccino Blast,24,234
+Battery Energy Drink,11.2,106
+Battery Juiced Energy Drink,15,144
+Bawls,10,64
+Bawls Cherry,16,100
+Bawls Exxtra,16,150
+Bawls Orange,10,64
+Bawls Root Beer,16,100
+Bazi Energy Drink,2,80
+Bean and Body Coffee,8,72
+Beaver Buzz Energy Drink,8.3,110
+Bee Energy Shot,2.5,100
+BEEBAD Energy Drink,8.46,80
+Berocca,8,90
+Berzerk Energy Drink,16,225
+Big Jak Energy Drink,16,164
+Big Red Soda,12,34
+Big Train Java Chip Ice Coffee,8,49
+Big Train Spiced Chai,8,65
+Bigelow Tea,8,45
+Biggby Brewed Coffee,16,200
+Biggby Creamy Lattes,16,100
+Biggby Espresso,2,100
+Biggby Frozen Lattes,16,100
+Biggby Iced Coffee,16,192
+Biggby Iced Tea,16,38
+Bing Energy Drink,12,120
+Biohazard Coffee,12,928
+Bizzy Cold Brew,16,750
+Black Bruin Energy Drink,8.46,38
+Black Insomnia Coffee,12,702
+Black Medicine Iced Coffee,11,206
+Black tea brewed,8,47
+Blade Energy Drink,16,240
+Blink Energy Water,16.9,150
+Blood Energy Potion,3.4,80
+BLU Energy Drinks,8.4,80
+Blu Frog Energy Drink,8.46,80
+Blue Bolt,8.46,80
+Blue Charge,8.46,80
+Blue Energy Drink,8.3,80
+Blutonium Energy Drink,2,0
+Bomb Energy Drink,8.46,80
+Bomba Energy Drink,8.4,75
+Boost Energy Drink,8.46,80
+Boost Nutritional Drink,8,5
+Booty Sweat Energy Drink,8.4,80
+Bottled Iced Coffee Dunkin Donuts,13.7,171
+Brain TonIQ,8.4,0
+Brawndo Energy Drink,16,200
+Brown Rice Tea,8,4
+Bulldog Buzz,11.84,204
+Bulletproof Coffee,8,145
+Burn Energy Drink,16.91,160
+Buzz Monkey,8.46,78
+BuzzWater,16.9,200
+Cafe Viva Probiotic Coffee,8,125
+Caffe Mocha,12,152
+Caffe Nero Coffee,12,80
+Caffeinated Club Soda,12,34
+Caffeine Energy Drink,12,140
+Califia Farms Cafey Latte Cold Brew Coffee,8,50
+Canada Dry Green Tea Ginger Ale,12,9
+Canadian Big Buzz Green Machine Energy,16,224
+Cannabis Energy Drink,8.46,80
+Cappuccino,12,154
+Caribou Brewed Coffee,16,305
+Celsius Energy Drink,12,200
+Chai Tea,8,50
+Chameleon Cold Brew Coffee,32,2160
+Chameleon Cold Brew RTD Coffee,10,270
+CHARGE! Super Shot,2,200
+Chasing Rabbits Energy drink,12,120
+Cheerwine,12,48
+Cheetah Power Surge,24,0
+Cherry Coke,12,34
+Cherry Coke Zero,12,34
+Chick-fil-A Iced Coffee,14,94
+Chocolate Milk,8,5
+Choffy (roasted cacao),6,23
+Cintron Energy Drink,16,170
+Clear Coffee,6.77,100
+Clif Shot Turbo Energy Gel,1.2,100
+Club Mate,16.91,100
+Co-Operative Diet Cola,16.91,50
+Coca-Cola caffeine free,12,0
+Coca-Cola Classic,12,34
+Coca-Cola Life,12,28
+Cocaine Energy Drink,8.4,280
+Cocaine Energy Shot,2,280
+Coffee (Brewed),8,163
+Coffee (Decaf, Brewed),8,6
+Coffee (Decaf, Instant),8,3
+Coffee (Espresso),1.5,77
+Coffee (Instant),8,57
+Coffee Bean & Tea leaf Coffee,16,333
+Coffee Crave Fearless Black,12,844
+Coffee Leaf Tea,8,12
+Cojones Energy Shot,2,125
+Coke Zero,12,34
+CoMotion,8.4,160
+CoolBrew Coffee,10,60
+Costa Coffee,15.22,277
+Cougar Energy Double Shot,2.5,150
+Courage Energy Drink,8.46,50
+Cran Energy Juice,10,69
+Crave Energy Drink,16,160
+Crunk Energy Drink,16,192
+Crystal Light Energy,16,60
+Crystal Light Focus,16,40
+Crystal Light Iced Tea,8,11
+Crystal Pepsi,20,63
+Cult Cola,16.91,75
+Cyborg,8.43,80
+Dare Iced Coffee,16.91,160
+Dark Dog Energy Drink,8.45,80
+Death Wish Coffee,12,728
+Death Wish Nitro Brew,11,381
+Demon Energy Drink,16.91,160
+Demon Energy Shot,2.03,200
+Diablo Energy Drink,8.4,95
+Diabolo Loco Energy Drink,16,160
+Diet A&W Cream Soda,12,22
+Diet Barq's Root Beer,12,0
+Diet Cheerwine,12,48
+Diet Cherry Coca-Cola,12,34
+Diet Coke,12,46
+Diet Coke Plus,12,45
+Diet Coke with Lemon,12,45
+Diet Coke with Lime,12,46
+Diet Coke with Splenda,12,46
+Diet Dr Pepper,12,41
+Diet Dr Pepper Cherry,12,39
+Diet Dr Pepper Cherry Vanilla,12,39
+Diet Mountain Dew,12,54
+Diet Mr. Pibb,12,40
+Diet Pepsi,12,34
+Diet RC Cola,12,47
+Diet Ruby Red Squirt,12,39
+Diet Sunkist Orange Soda,12,42
+Diet Turbo Tea,18,90
+Diet Vanilla Coke,12,45
+Diet Wild Cherry Pepsi,12,38
+Divas Energy Drink,8.46,80
+DNA Energy Drink,16,170
+doc,20,100
+Dollar Energy Shot,1.93,190
+Don Tomas Estate Coffee,8,145
+Double Cola,12,36
+Dr Pepper,12,41
+Dr Pepper 10,12,51
+Dr Pepper Cherry,12,39
+Dr Pepper Cherry Vanilla,12,39
+Dragon Pearl,2,100
+Duff Energy Drink,12,120
+Dunkin' Donuts Brewed Coffee,14,210
+Dunkin' Donuts Cappuccino,20,233
+Dunkin' Donuts Coffee,14,210
+Dunkin' Donuts Coffee with Turbo Shot,20,398
+Dunkin' Donuts Coolatta,24,18
+Dunkin' Donuts Dunkaccino,14,83
+Dunkin' Donuts Iced Coffee,24,297
+Dunkin' Donuts Iced Latte,24,151
+Dunkin' Donuts Iced Tea,24,67
+Dunkin' Donuts Latte,14,151
+Dunkin' Donuts Mocha,14,151
+Dutch Bros. Blue Rebel Energy Drink,8.4,80
+Dutch Bros. Coffee,20,256
+DynaPep,0.14,100
+E6 Energy Shot,2,235
+Eboost Energy Drink,8,80
+ED Energy Drink,16.9,160
+Eight O'Clock Coffee,8,112
+Einstein Bros Coffee,16,206
+Electric Monkey Wild Energy Drink,16,160
+Element Caffeinated Water,16.9,50
+Emerge,8.46,75
+EMV Energy Drink,8.46,80
+EnerBee Energy Drink,12,100
+Energi-ZING Shake by Nutrisystem,8,200
+Energy Catalyst,0.23,100
+Enerji Green Tea Energy Shot,2.5,100
+Enorm Energy Drink,8.45,88
+Epiphany Energy Drink,8,80
+Eruption Effervescent Energy,8,45
+Eternal Energy Shot,1.93,222
+Everyday Energy Shot,8,75
+Ex Energy Drink,8.4,79
+Extra Water Energy Drink,16,0
+Extreme Thermo Rush,20,200
+FAB Energy Drink,8.46,70
+Facedrink Energy Shot,2.5,140
+Fakeer Energy Drink,12.52,118
+Fanta,12,0
+Fast Lane Black Tea,8,110
+Faygo Cola,12,42
+Faygo Moon Mist,12,20
+Fein Energy Crystals,8,75
+Fighter Energy Drink,8,38
+Fire Blade Energy Drink,8.46,80
+Flat White,8.46,77
+Flatt Cola,8,65
+Flying Power Energy Drink,11.15,106
+FMF Power Energy Drink,16,240
+Folgers Coffee,8,112
+Folgers Ground Coffee,12,80
+Forto Coffee Energy Shot,2,200
+Frava Caffeinated Juice,16,200
+Fresca,12,0
+Freshe Energy Drink,9.3,80
+Fritz Kola,11.16,83
+FRS Energy Drink,11,38
+Fuel Cell,2,180
+Fuel Energy Drink,16,240
+Full Throttle Energy Drink,16,160
+Full Throttle Frozen Blast,8,27
+Function Alternative Energy,16.9,70
+Fuze Iced Tea,20,20
+G Fuel Energy Drink Mix,12,150
+G Pure Energy Drink,6.76,80
+G Shot Antioxidant Energy,2.4,80
+GaGa Energy Drink,8.46,80
+Game Juice,16.9,38
+Ginger Ale or Ginger Beer,12,0
+Gloria Jean's Coffee,2.028,67
+Go Fast Energy Drink,11.9,120
+Go Fast! Coconut,16,162
+Go Girl Energy Drink,11.5,100
+Go Loco- Loco Tonic,8.4,80
+Golazo Sports Energy Drink,12,100
+Gold Peak Coffee,8,126
+Gold Peak Tea,18.5,27
+Gold Peak Unsweetened Tea,19,23
+Gourmesso Coffee Pods,1.35,65
+Grazzhopper Energy Drink,8.46,63
+Great Value Energy Drink Enhancers,8,50
+Great Value Energy Drink Mix,16,120
+Greek Coffee (Metrios),2,50
+Green Go,8.46,80
+Green Mountain Keurig K-Cup,8,75
+Green tea,8,29
+Gridlock Energy Drink,16,160
+Guayaki Canned Yerba Mate,16,150
+Guayaki Energy Shots,2,140
+Guayaki Yerba Mate Bottled Tea,16,140
+Guayusa Tea,8,66
+GURU Energy Drink,12,140
+GURU Sparkling Energy Water,12,100
+Hansen's Diet Red,8.3,57
+Hansen's Energy Pro,8.3,57
+Hard Rock Energy Drink,16,160
+Hardcore Energize Bullet,2.9,300
+Havoc Energy Drink,8.4,52
+Hawaiian OLA Noni Energy Shot,2.5,150
+Hawaiian Ola Sparkling Energy,11.5,150
+Health Energy Potion,2,160
+Heka Energy Drink,16,160
+Helix Energy Drink,16,170
+Herbal tea,8,0
+Heroec Energy Water,16.9,60
+Hershey's Chocolate Milk,8,5
+Hi Ball Energy Coffee,8,120
+Hi Ball Energy Drink,16,160
+Hi Ball Protein Energy Shake,11,100
+HICAF Tea,8,110
+High Brew Coffee,8,163
+Hijinks Energy Mixer,1.1,200
+Hint Caffeine Kick Water,16,60
+Honest Professor Fizz,12,40
+Honest Tea,16.9,90
+Honest Tea Organic Lemon Tea,17,90
+Hot Cocoa (Hot Chocolate),8,5
+Hot Pure Energy Drink,12,114
+Howling Monkey Energy Drink,16,160
+Hydrive Energy Water,15.5,160
+Hydrive Extra Power,15.5,195
+Hydroxycut Instant Shot,2,200
+Hype Energy Drink,8.46,80
+IBC Root Beer,12,0
+Illy Issimo Cafe,6.8,155
+Inca Kola,16,50
+Indigo Energy Drink,12.68,94
+Indulgio Cappuccino,8,20
+Ink,16.91,160
+Inko's White Tea Energy,15.5,184
+International Delight Iced Coffee,8,60
+International Delight Iced Coffee,8,65
+Irn Bru 32,11.16,106
+iShot Energy Shot,2.03,120
+iShot Love Potion,2.03,90
+iShot Skinny Energy Shot,2.03,78
+Ito En Matcha Love ,5.2,29
+Ito En Oolong Shot,6.4,40
+Ito En Sencha Shot,6.4,40
+Jamba Juice Energy Drink,8.4,80
+Java Kick Energy Drink,8.46,84
+Java Monster,15,188
+Jay Street Coffee,6.4,150
+Jazz Caramel Cream,12,38
+Joker Mad Energy,16,206
+Jolt Cola Energy Drink,23.5,280
+Jolt Endurance Shot,2,200
+Jump Start Energy Drink,16,200
+K Cup Tea,8,41
+K-Cup Coffee,8,120
+Kaffn8 Liquified Caffeine,0.25,75
+Karvana Kombucha Energy Shot,4.5,110
+Keurig Vue Pack,12,180
+KeVita Master Brew Kombucha,15,80
+Kick Energy Drink,8.46,80
+Kickapoo Soda: Joy Juice & Fruit Shine,12,40
+Kill Cliff Recovery Drink,12,25
+Killer Buzz,8.3,100
+Killer Coffee,8.46,430
+King 888 Energy Drink,16,160
+Kinley Soda,12,0
+Kirkland Energy Shot,2,180
+Knockout Energy Drink,16,160
+Kombucha Extreme Energy Shot,2,150
+Kombucha Tea,8,24
+Kona Gold Energy Drink,8.4,80
+Kona Red,16,54
+KX Energy Drink,8.46,80
+Latte,16,154
+Life Blast Xtreme Energy,8,100
+Lift Off Energy Drink,8,72
+Lift Plus Energy Drink,8.45,80
+Limelite Fusion Energy Drink,12,32
+Lipton Brisk Tea,12,8
+Lipton Decaffeinated Tea, black, brewed,8,5
+Lipton Iced Tea,20,48
+Lipton Lemon Iced Tea,20,25
+Lipton Natural Energy Tea,8,75
+Lipton Tea,8,55
+Liquid Caffeine,1,500
+Liquid Ice Energy Drink,8.3,80
+Liquid Lightning,16,200
+Liquid Ninja Energy Drink,8.46,80
+Liquid Z Juiced Energy Drink,16,100
+Long Black,6,154
+Long Island Iced Tea,20,40
+Lost Energy Drink,16,160
+Lucozade,12.85,46
+Lyft Energy Stick,8,120
+M-150 Energy Drink,8.46,80
+Mad Croc Energy Drink,8.45,80
+Mamma Chia Energy,10,90
+Mana Energy Potion,1.35,160
+Mario Power Up Energy Drink,8.4,120
+Matador Energy Drink,16,80
+Matcha Tea,8,70
+Mate Bros Energy Drink,8,99
+MATI Energy Drink,12,110
+Max Velocity Energy Drink,16,155
+Maxwell House Coffee,8,112
+Maxwell House Light Ground Coffee,12,75
+Maxwell House Lite Ground Coffee,12,60
+McDonalds (McCafe) Latte,16,142
+McDonalds (McCafe) Mocha,16,167
+McDonalds Coffee,16,145
+McDonalds Iced Coffee,22,200
+McDonalds Sweet Tea,32,100
+Mega Monster Energy Drink,24,240
+Mello Yello,12,51
+Mello Yello Zero,12,51
+MiO Energy Water Enhancer,8,60
+Missile Energy Drink,8.43,80
+Mix and Go,0.34,100
+MonaVie,2,0
+Monster Absolutely Zero,16,140
+Monster Assault,16,160
+Monster Cuba Lima,16,160
+Monster DUB,16,160
+Monster Energy Drink,16,160
+Monster Energy Mexico,16,92
+Monster Export,8.46,76
+Monster Extra Strength,12,160
+Monster Hitman Sniper,3,240
+Monster Hydro Energy Drink,16,125
+Monster Import,18.6,179
+Monster Khaos,16,154
+Monster Lo-Carb,16,140
+Monster M3 Energy Drink,5,160
+Monster Mixxd Energy Drink,16,160
+Monster Mutant Super Soda,20,115
+Monster Pink Energy Drink,16,140
+Monster Pipeline Punch,16,160
+Monster Rehab Energy Drink,15.5,161
+Monster Rehab Green Tea,15.5,155
+Monster Ripper,16.91,160
+Monster The Doctor Energy Drink,16.91,160
+Monster Ultra Citron,16,152
+Monster Ultra Energy Drink,16,140
+Monster Ultra Sunrise,16,151
+Monster Unleaded Energy Drink,16,0
+Moonshot Energy Drink,12,115
+Morning Spark Energy Drink,16.9,170
+Morning Thunder Tea,8,40
+Mother Energy Drink,16.91,160
+Mother Inferno,16.91,160
+Mountain Dew,12,54
+Mountain Dew Baja Blast,16,72
+Mountain Dew Black Label,16,83
+Mountain Dew Code Red,12,54
+Mountain Dew Game Fuel,20,121
+Mountain Dew Kickstart,16,92
+Mountain Dew Kickstart Hydrating Boost,12,68
+Mountain Dew Live Wire,12,54
+Mountain Dew Spiked,16,72
+Mountain Dew Voltage,12,55
+Moxie Energy Drink,16,80
+Mug Root Beer,12,0
+Muscle Milk Coffee House,11,120
+Muscle Monster,15,156
+MusclePharm Energy Drink,12,120
+Mushroom Coffee,7,40
+Nap Nock Energy Shot,2.03,102
+Nawgan Energy Drink,8,100
+NEO Energy Drink,8.43,100
+Neon Energy Drink,8.46,100
+Nerd Energy Drink,12,120
+Nescafe Ice Java,0.85,100
+Nescafe' Ricoffy,8,6
+Nespresso capsule,1,60
+Nespresso Coffee Capsules,1.35,60
+Nespresso Kazaar capsule,1,120
+Nestea Iced Tea,20,13
+Nestle Milo,8,4
+Neu Nootropic Shot,2,125
+Neuro Sonic,14.5,100
+Neurofuel Energy Drink,12,128
+Neurogum Nootropic Chewing Gum,1,40
+Neutron Energy Drink,16,180
+Nexcite Energy Drink,6.76,64
+No Fear Energy Drink,16,182
+NoDoz Energy Shot,1.89,115
+NOS Active Sports Drink,22,221
+NOS Energy Drink,16,160
+NOS Energy Drink (New Zealand Brand),19.21,160
+NOS Loaded Cherry,16,160
+NRG MicroShot,0.2,130
+Nuun Energy Drink,16,40
+O Infused Water - Energize,16,64
+Octane Energy Burst,1.01,10
+Octane Energy Drink,12,225
+Oi Ocha Green Tea,16.9,60
+OK Energy Drink,16.9,160
+Ol' Glory Energy Drink,16,160
+Ole Energy Drink,8.46,80
+ON Energy Drink,16,100
+OnGo Energy Shot,2,177
+OnTheGo Drink Mix,8,0
+Oprah Chai Tea Latte,16,50
+Orange Crush,20,0
+Oregon Chai Tea,4,33
+Ovaltine,8,0
+Pacific Chai,12,41
+Panera Bread Coffee,16,189
+Panera Coffee Light Roast,16,300
+Panera Frozen Mocha,16,188
+PC Cola,12,12
+PC Cola Diet,12,13
+Peace Tea,23,60
+Peet's Brewed Coffee,16,267
+Peet's Caffe Americano,16,140
+Peet's Caffe Latte,16,140
+Peet's Caffe Mocha,16,165
+Peet's Cappuccino,16,140
+Peet's Coffee Espresso,1.5,70
+Peet's Decaf Espresso,1.5,10
+Peet's Iced Coffee,16,150
+Peet's Iced Latte,16,140
+Peet's Iced Mocha,16,165
+PepPod Energy Drink,8,81
+Pepsi Caffeine Free,12,0
+Pepsi Cola,12,38
+Pepsi Diet Lemon,12,38
+Pepsi Diet Lime,12,38
+Pepsi Diet Vanilla,12,38
+Pepsi Max,12,69
+Pepsi Next,12,32
+Pepsi One,12,54
+Pepsi Slurpee,8,14
+Pepsi Throwback,12,38
+Pepsi True,7.5,24
+Phix Energy Drink,12,80
+Pibb Xtra,12,40
+Pibb Zero,12,40
+Pirate Energy Shot,1.7,133
+Plasma Energy Drink,16,160
+Player Aid Energy Shot,2,120
+Please Energy Drink,9.3,88
+Positive Charge Energy Drink,16.5,150
+Positive Energy Juice,12,150
+Potencia Energy Drink,16,250
+Power Edge Energy Drink Mix,16,160
+Power Horse Energy Drink,8.45,80
+Power Trip Energy Drink,16,210
+Powerade Fuel +,10.15,96
+Powerthirst Energy Drink,16,190
+Premium Cola,11.16,83
+Pronto Coffee,6,67
+Propel Zero Energy Mix,16,0
+Pulse,10.15,21
+Pure Cofain 699,8.46,175
+Pure Kick Energy Drink,20,200
+Pure Leaf Iced Tea,18.5,57
+Pyure o.e.o. Energy Shot,2,100
+Quad Energy Drink,16,140
+Race Energy Drink,8.3,80
+Radioactive Energy Drink,16,156
+Rage Inferno,24,375
+Rage Liquid Energy,16,200
+Ram Jam Energy Drink,16,160
+RC Cola,12,43
+RC Cola, Cherry,12,43
+Real Beanz Iced Coffee,9.5,66
+Realife Plus Energy,0.34,80
+Reckless Energy Shot,2.37,125
+Red Bull,8.46,80
+Red Bull Blue Edition,8.46,80
+Red Bull Cherry Edition,12,114
+Red Bull Green Edition,12,114
+Red Bull Lime Edition,12,114
+Red Bull Orange Edition,12,114
+Red Bull Purple Edition,12,114
+Red Bull Red Edition,8.46,80
+Red Bull Silver Edition,8.46,80
+Red Bull Sugar Free,8.46,80
+Red Bull Total Zero,8.46,80
+Red Bull Yellow Edition,12,114
+Red Devil Energy Drink,16,160
+Red Eye Energy Drink,11.1,106
+Red Fin Energy Shot,2,200
+Red Flash,12,37
+Red Heel Drink,8.5,75
+Red Power Elixir,12,180
+Red Rain Energy Drink,8.4,80
+Red Rock Cola,12,26
+Red Rooster,8.46,80
+Red Rose Energy Tea,8,60
+Red Thunder Energy Drink,8.46,75
+Red Thunder Energy Shot,2,138
+Redline Energy Drink,8,250
+Redline Power Rush,2.5,350
+Redline Princess,8,250
+Redline Xtreme Energy Drink,8,316
+Redline Xtreme Shot,3,300
+Reeds Energy Elixir,10.5,20
+Reize Energy Drink,8.46,50
+Relentless Energy Drink,16.9,160
+Rhino Rush Energy Shot,1.8,200
+Rip It Energy Drink,16,160
+Rip It Energy Shot,2,100
+Ripped Force Energy Drink,18,200
+Ripped Hardcore Liquid Energy Drink,11.16,300
+Ritz Cola,12,10
+Rize Energy Drink,8.46,60
+Roaring Lion Energy Drink,16.9,161
+Robust Energy Drink,8.46,79
+Robusta Coffee,8,265
+Rock On Energy Shot,2,125
+Rockstar (NZ / Aus),16,151
+Rockstar Boom!,16,160
+Rockstar Burner Energy Drink,16,160
+Rockstar Energy Cola,16,160
+Rockstar Energy Drink,16,160
+Rockstar Energy Shot,2.5,200
+Rockstar Energy Water,20,180
+Rockstar Horchata Energy Drink,15,225
+Rockstar Iced Energy Drink,16,240
+Rockstar Juiced,16,160
+Rockstar Lime Freeze,16,160
+Rockstar Organic Energy Drink,15,160
+Rockstar Perfect Berry,16,240
+Rockstar Pina Colada,16,160
+Rockstar Punched,16,240
+Rockstar Punched (non-USA),16.91,160
+Rockstar Punched Guava,16,160
+Rockstar Pure Zero Energy Drink,16,240
+Rockstar Recovery,16,160
+Rockstar Revolt Energy Drink,16,240
+Rockstar Roasted,15,220
+Rockstar Sparkling Energy,16,160
+Rockstar Sport Energy Shake,15,160
+Rockstar Super Sours,16,240
+Rockstar XDurance Energy Drink,16,240
+Rockstar Zero Carb,16,240
+Rocky Mountain High Energy Drink,12,120
+Root9 Vitality Drink,12,50
+RootJack Caffeinated Pirate Root Beer,12,120
+Ruby Red Squirt,12,39
+Rude Energy Drink,8,75
+Rumba Energy Juice,16,170
+Runa Clean Energy Drink,8.46,120
+Rush! Energy,8.3,50
+Sambazon Amazon Energy Drink,12,80
+Sarsaparilla,12,0
+Scheckters Energy Drink,8.46,80
+Screamin Energy Max Hit,0.61,185
+Seattle's Best Brewed Coffee,12,260
+Sencha Green Tea Shot,6.4,40
+Shark Energy Drink,8.46,80
+Shasta Cola,12,43
+Shock Coffee Triple Latte,8,231
+Sin Energy Drink,8.4,90
+Ski Soda,12,69
+Skinny Cow Iced Coffee,8,70
+Slammers Energy Drink,8.46,80
+SLAP Energy Drink,16,220
+SlimFast Cappuccino Delight Shake,10,40
+Slurpee,16,40
+Snapple Lemon Tea,16,37
+Snapple Tea,16,37
+SoBe Adrenaline Rush,8.3,79
+SoBe Energy Citrus,20,77
+SoBe Green Tea,20,10
+SoBe Power Fruit Punch,20,76
+Soda Stream,8,80
+Source Energy Drink,8.46,80
+Southern Sweet Tea,16,41
+Spark Energy Drink,8,120
+Spartan Energy Drink,8.4,90
+Speed Energy Drink,16,186
+Speed Stack Energy Drink,18,250
+Spider Energy Drink,16,240
+Spike Energy Double Shot,4.26,350
+Spike Energy Drink,16,350
+SPIKE Shooter,8.4,300
+Sport Max Energy Shot,2,140
+Sprite,12,0
+Squirt Soda,12,0
+Stakk'd Caffeine Mixer,1,180
+Starbucks Bottled Frappuccino,13.7,130
+Starbucks Bottled Iced Coffee,11,110
+Starbucks Caffey Americano,16,225
+Starbucks Caffe Mocha,16,175
+Starbucks Cappuccino,16,150
+Starbucks Chai Latte,16,95
+Starbucks Classics Caffe Mocha,48,510
+Starbucks Coffee Blonde Roast,20,1
+Starbucks Coffee Bottle Frappuccino,14,130
+Starbucks Coffee Frappuccino,16,95
+Starbucks Coffee Pike Place Roast,12,235
+Starbucks Coffee, Pike Place Roast,16,310
+Starbucks Cold Brew Coffee,16,200
+Starbucks Decaf Coffee,16,25
+Starbucks Doubleshot,6.5,110
+Starbucks Doubleshot Energy + Coffee,15,145
+Starbucks Doubleshot Energy Coffee, can,15,145
+Starbucks Espresso,2,150
+Starbucks Grande Caffe Americano,16,225
+Starbucks Grande Caffe Latte,16,150
+Starbucks Grande Caffe Mocha,16,175
+Starbucks Grande Cappuccino,16,150
+Starbucks Grande Coffee,16,330
+Starbucks Green Tea Latte,16,80
+Starbucks Iced Bottle Black Coffee,11,160
+Starbucks Iced Coffee,16,190
+Starbucks Iced Espresso,16,225
+Starbucks Latte Macchiato,16,225
+Starbucks Mocha Frappuccino,16,110
+Starbucks Protein and Coffee,8,110
+Starbucks Refreshers,16,50
+Starbucks Refreshers Canned,12,50
+Starbucks Verismo Coffee Pods,8,60
+Starbucks Via Ready Brew,8,135
+Steaz Organic Energy Drink,12,100
+Steep 18 Cold Brew,8,90
+Stewie's Mind Erase Elixir,8.4,50
+Stok Black Coffee Shots,0.44,40
+Street King Energy Shot,2.5,280
+Strike Force Energy Drink,16.91,160
+Stumptown Cold Brew + Milk,16,319
+Stumptown Cold Brew Chocolate + Milk,16,340
+Stumptown Cold Brew Coffee,10.5,279
+Stumptown Nitro Cold Brew,11,330
+Sun Drop Soda,12,64
+Sunkist Orange Soda,12,41
+Sunkist Sparkling Lemonade,12,41
+Sunkist Ten,20,68
+SunnyD X Energy Drink,16,0
+Sunup Green Coffee,9.5,285
+Surge Citrus Soda,16,69
+Surge Energy Shot,2.5,140
+Svelte Cappuccino Protein Shake,11,65
+Swing Juice Energy Drink,16,50
+t-licious Energy Drink,8.46,80
+T-Virus Antidote,8.45,120
+TAB Diet Cola,12,45
+Taiwanese Milk Tea,13.526,130
+Talon Energy Drink,16,174
+TAPOUT Energy Drink,16,200
+Taurus Energy Drink,8.46,50
+Tazo Chai,8,47
+Tazo Organic Iced Bottle Black Tea ,14,45
+Tea (Black),8,42
+Tea (Decaf),8,5
+Tea (Green),8,25
+Tea (Herbal),8,0
+Tea (Iced),8,47
+Tea (Instant),8,40
+Tea (Jasmine),8,25
+Tea (Oolong),8,37
+Tea (White),8,28
+Teas' Tea Oolong,16.9,55
+Teavana Tea,8,41
+TEHO Energy Drink,16.9,160
+Tejava Iced Tea,12,50
+TENZING Energy Drink,8.46,80
+Tiger Energy Drink,8.46,80
+Tim Hortons Large Brewed Coffee,20,200
+Tim Hortons Small English Toffee Coffee,10,60
+Tim Hortons Small French Vanilla Coffee,10,60
+TK Diet Cola,12,38
+Tonic Water,11.9,0
+Topplez Cafe 125,8,125
+Trader Joe's Energy Drink,16,150
+Trim Water,20,50
+TroopFuel Energy Drink,12,50
+Tropicana Twister Soda,20,0
+Tru Blood Energy Drink,14,50
+TruBrain Morning,1,80
+TruEnergy Sport Shot,1.69,100
+TrueStart Performance Coffee,5.1,95
+Tube Shot Energy Shot,0.3,200
+Turkey Hill Iced Tea,16.2,110
+Turkish Coffee,2,50
+Twig Tea (Kukicha),8,25
+Ubermonster Energy Brew,16.91,160
+UPTIME Energy Drink,12,142
+USANA Rev3 Energy Drink,12,80
+V Double Espresso Iced Coffee,16.07,147
+V Energy Drink,11.84,109
+V Pocket Rocket Energy Shot,2.03,200
+V8 Fusion Energy Drink,8,80
+Vamp Energy Drink,16,240
+Vanilla Coke,12,34
+Vanilla Coke Zero,12,34
+Vegas Fuel Energy Drink,8.4,75
+Venom Black Mamba,16,160
+Venom Death Adder,16,160
+Venom Killer Taipan,16,160
+Venom Mojave Rattler,16,160
+Vernors Ginger Ale,12,0
+Verve! Energy Drink,8.3,80
+Vidration Enhanced Water,20,125
+Virtue Energy Water,8.46,80
+Viso Energy Drink,20,300
+Vita Coco Cafe,11.1,120
+Vital 4U Liquid Energy,0.5,155
+Vital Energy Drink,20,150
+VitaminWater Energy Drink,11.5,80
+VitaRain Energy Enhanced Water,20,42
+Vixen Energy Drink,16,174
+Voltz Energy Shot,2,50
+Vuka Functional Drinks,16,160
+Warrior Energy Drink,16,160
+Water Joe,20,70
+Wendy's Iced Tea,16,32
+Whey Up Energy Drink,16,150
+White Tiger,8.46,80
+Whoop Ass Energy Drink,16,200
+Wicked Energy Drink,16.9,155
+Wicked Hammer Energy,8.4,80
+Wild Cherry Pepsi,12,38
+Wildcat Energy Drink,8.46,80
+Winrgy Energy Drink,6.77,90
+Wired X 3000 Energy Drink,16,188
+Wired X Berry Rush,16,100
+Wired X344 Energy Drink,16,344
+Wolfshot Hemp Energy Shot,2,180
+Worx Energy Shot,2,160
+X Ray Energy Drink,8.46,79
+X-Mode Energy Shot,1,150
+XAPP Protein Energy Drink,16,93
+Xingtea Flavored Tea,23.5,35
+Xingtea Green Tea Energy,23.5,155
+Xingtea Just Plain Tea,23.5,75
+XL Energy Drink,8.3,80
+XO Energy Drink,5.07,50
+XS Energy Drink,8.4,80
+Xtazy Energy Drink,12,180
+Xtreme Shock Energy Drink,12,200
+Xyience Energy Drink,16,176
+Y.E.S. Energy Shot,2,180
+Yellow Tea,8,33
+Yerba Mate Tea,8,85
+Yoo-Hoo Chocolate Drink,8,0
+Zest Highly Caffeinated Tea,8,150
+Zevia Cola,12,45
+Zevia Energy Drink,12,120
+Zija XM+ Energy Drink,12,200
+ZipFizz Energy Drink,16,100
+ZizZazz Energy Drink,16,200
+Zola Coconut Water Espresso,17.5,125
+Zombie Blood Energy Potion,3.4,80
+ZUM XR Energy Drink,16,200
